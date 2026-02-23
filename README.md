@@ -1,18 +1,18 @@
-# 🏥 AI Healthcare Deep Learning
+# AI Healthcare Deep Learning
 
 Deep learning applied to healthcare: medical image analysis, signal processing, NLP, and reinforcement learning for clinical decision support.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
-- [Project: Blood Cell Classification](#-project-blood-cell-classification)
-- [Practical Labs](#-practical-labs)
-- [Course Topics](#-course-topics)
-- [Repository Structure](#-repository-structure)
-- [Getting Started](#-getting-started)
-- [License](#-license)
+- [Project: Blood Cell Classification](#project-blood-cell-classification)
+- [Practical Labs](#practical-labs)
+- [Course Topics](#course-topics)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [License](#license)
 
 ---
 
@@ -22,7 +22,7 @@ This repository covers a wide range of deep learning techniques applied to real-
 
 ---
 
-## 🔬 Project: Blood Cell Classification
+## Project: Blood Cell Classification
 
 **Main project** — Classification of blood cell types using CNN and Vision Transformer architectures.
 
@@ -32,11 +32,11 @@ This repository covers a wide range of deep learning techniques applied to real-
 | Vision Transformer (ViT) | Transformer | Patch-based image classification with self-attention |
 | VGG19 | Transfer Learning | Fine-tuned pretrained VGG19 on blood cell dataset |
 
-📓 **Notebook:** [`project_blood_cell_classification.ipynb`](https://colab.research.google.com/github/nolancacheux/AI-Healthcare-Deep-Learning/blob/main/project_blood_cell_classification.ipynb)
+**Notebook:** [`project_blood_cell_classification.ipynb`](https://colab.research.google.com/github/nolancacheux/AI-Healthcare-Deep-Learning/blob/main/project_blood_cell_classification.ipynb)
 
 ---
 
-## 🧪 Practical Labs
+## Practical Labs
 
 | # | Lab | Topic | Techniques |
 |---|-----|-------|------------|
@@ -49,7 +49,7 @@ This repository covers a wide range of deep learning techniques applied to real-
 
 ---
 
-## 📚 Course Topics
+## Course Topics
 
 Comprehensive lecture materials covering the full deep learning pipeline for healthcare:
 
@@ -66,7 +66,7 @@ Slides available in [`slides/`](slides/).
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── project_blood_cell_classification.ipynb   # Main project notebook
@@ -85,13 +85,13 @@ Slides available in [`slides/`](slides/).
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 All notebooks are designed for **Google Colab** with GPU runtime:
 
 1. Click any notebook link above
 2. Open in Google Colab
-3. Set runtime to **GPU** (`Runtime → Change runtime type → T4 GPU`)
+3. Set runtime to **GPU** (`Runtime > Change runtime type > T4 GPU`)
 4. Run all cells
 
 No local installation required — all dependencies are installed inline.
