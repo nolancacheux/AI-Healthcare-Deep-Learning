@@ -2,7 +2,6 @@
 
 Deep learning applied to healthcare: medical image analysis, signal processing, NLP, and reinforcement learning for clinical decision support.
 
----
 
 ## Table of Contents
 
@@ -14,13 +13,11 @@ Deep learning applied to healthcare: medical image analysis, signal processing, 
 - [Getting Started](#getting-started)
 - [License](#license)
 
----
 
 ## Overview
 
 This repository covers a wide range of deep learning techniques applied to real-world healthcare problems — from medical image classification to physiological signal analysis and autonomous glucose control. Each notebook is self-contained and designed to run on Google Colab with GPU runtime.
 
----
 
 ## Project: Blood Cell Classification
 
@@ -34,7 +31,6 @@ This repository covers a wide range of deep learning techniques applied to real-
 
 **Notebook:** [`project_blood_cell_classification.ipynb`](https://colab.research.google.com/github/nolancacheux/AI-Healthcare-Deep-Learning/blob/main/project_blood_cell_classification.ipynb)
 
----
 
 ## Practical Labs
 
@@ -47,7 +43,6 @@ This repository covers a wide range of deep learning techniques applied to real-
 | 5 | [Foot Pose Detection](notebooks/5_Foot_Pose_Detection_SETR.ipynb) | Pose Estimation | SETR (Segmentation Transformer), temporal segmentation |
 | 6 | [Glucose Control](notebooks/6_RL_Glucose_Control.ipynb) | Reinforcement Learning | RL agent for automatic blood glucose regulation |
 
----
 
 ## Course Topics
 
@@ -64,7 +59,6 @@ Comprehensive lecture materials covering the full deep learning pipeline for hea
 
 Slides available in [`slides/`](slides/).
 
----
 
 ## Repository Structure
 
@@ -83,7 +77,6 @@ Slides available in [`slides/`](slides/).
 └── docs/                                      # Project documentation
 ```
 
----
 
 ## Getting Started
 
@@ -96,7 +89,6 @@ All notebooks are designed for **Google Colab** with GPU runtime:
 
 No local installation required — all dependencies are installed inline.
 
----
 
 ## License
 
