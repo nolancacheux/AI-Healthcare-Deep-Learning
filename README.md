@@ -1,7 +1,6 @@
-# M2 AI Healthcare
+# AI Healthcare
 
 AI applications for healthcare: medical image analysis and predictive modeling.
-Master 2 Data Science coursework, ISEN 2026.
 
 ## Project
 
@@ -45,4 +44,4 @@ Designed for Google Colab with GPU runtime. Open any notebook directly via the C
 
 ## License
 
-Academic use only.
+MIT
