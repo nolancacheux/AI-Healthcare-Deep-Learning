@@ -45,7 +45,7 @@ This repository covers a wide range of deep learning techniques applied to real-
 | 3 | [Fetal Heart Rate Segmentation](notebooks/3_U_NET_FHR.ipynb) | Signal Segmentation | U-Net, physiological signal analysis, FHR baseline detection |
 | 4 | [Multiple Sclerosis Diagnosis](notebooks/4_IEFs_transformer_CNN.ipynb) | Medical Imaging | Vision Transformers vs CNN, oligoclonal band detection, isoelectric focusing |
 | 5 | [Foot Pose Detection](notebooks/5_Foot_Pose_Detection_SETR.ipynb) | Pose Estimation | SETR (Segmentation Transformer), temporal segmentation |
-| RL | [Glucose Control](notebooks/rl_glucose_control_lab.ipynb) | Reinforcement Learning | RL agent for automatic blood glucose regulation |
+| 6 | [Glucose Control](notebooks/6_RL_Glucose_Control.ipynb) | Reinforcement Learning | RL agent for automatic blood glucose regulation |
 
 ---
 
@@ -77,7 +77,7 @@ Slides available in [`slides/`](slides/).
 │   ├── 3_U_NET_FHR.ipynb                     # Lab 3: Fetal heart rate (U-Net)
 │   ├── 4_IEFs_transformer_CNN.ipynb          # Lab 4: MS diagnosis (ViT vs CNN)
 │   ├── 5_Foot_Pose_Detection_SETR.ipynb      # Lab 5: Pose detection (SETR)
-│   └── rl_glucose_control_lab.ipynb          # Lab RL: Glucose control (RL)
+│   └── 6_RL_Glucose_Control.ipynb             # Lab 6: Glucose control (RL)
 ├── slides/                                    # Course lecture slides (PPTX)
 ├── data/                                      # FHR baseline dataset
 └── docs/                                      # Project documentation
