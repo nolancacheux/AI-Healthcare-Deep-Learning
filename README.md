@@ -18,13 +18,13 @@ Deep learning applied to healthcare: medical image analysis, signal processing, 
 
 ## Overview
 
-This repository covers a wide range of deep learning techniques applied to real-world healthcare problems — from medical image classification to physiological signal analysis and autonomous glucose control. Each notebook is self-contained and designed to run on Google Colab with GPU runtime.
+This repository covers a wide range of deep learning techniques applied to real-world healthcare problems, from medical image classification to physiological signal analysis and autonomous glucose control. Each notebook is self-contained and designed to run on Google Colab with GPU runtime.
 
 ---
 
 ## Project: Blood Cell Classification
 
-**Main project** — Classification of blood cell types using CNN and Vision Transformer architectures.
+**Main project**: Classification of blood cell types using CNN and Vision Transformer architectures.
 
 | Model | Architecture | Description |
 |-------|-------------|-------------|
@@ -94,7 +94,7 @@ All notebooks are designed for **Google Colab** with GPU runtime:
 3. Set runtime to **GPU** (`Runtime > Change runtime type > T4 GPU`)
 4. Run all cells
 
-No local installation required — all dependencies are installed inline.
+No local installation required, all dependencies are installed inline.
 
 ---
 
