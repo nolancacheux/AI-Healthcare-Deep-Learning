@@ -7,3 +7,4 @@ models/
 figures/
 tests/
 *.bak
+*.keras
